@@ -218,18 +218,4 @@ a:unvisited{
 
 
 
-.image{
 
-    height: 700px;
-
-    width: auto;
-
-}
-
-.sub:hover{
-
-    display:flex;
-
-    gap:5px;
-
-}
